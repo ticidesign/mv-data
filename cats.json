@@ -26,7 +26,8 @@
 		},
 		{
 			"photo": "https://static.pexels.com/photos/126407/pexels-photo-126407.jpeg",
-			"name": "My Cat"
+			"name": "My Cat",
+			"age": "5"
 		}
 	]
 }
